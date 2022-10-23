@@ -1,2 +1,3 @@
 # murdermystery-tracker-1.8.9
-simply draw a tracers to gold and player ( holding sword ) 
+a custom mods i made for BlocksMC solo Murder Mystery
+and Hypixel Solos ( up to duos and trios ) Murder Mystery.
