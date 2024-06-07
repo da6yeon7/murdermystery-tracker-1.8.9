@@ -2,7 +2,7 @@
 a custom mods i made for BlocksMC solo Murder Mystery
 and Hypixel Solos ( up to duos and trios ) Murder Mystery.
 
-* if you are using this mod Please contact @feliciathegods ( Discord/Insta ) if you have some issues or https://t.me/lilpeepstan
+* if you are using this mod Please contact @unauna17 ( discord ) if you have some issues or https://t.me/lilpeepstan
 
 nb: this is for educational purposes only and not for ruining other's experience !
 
